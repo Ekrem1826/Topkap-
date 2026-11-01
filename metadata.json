@@ -1,0 +1,6 @@
+{
+  "name": "Topkapı Palace in the Age of Suleiman (c. 1550)",
+  "description": "Interactive 3D architectural historical reconstruction of Topkapı Palace (Topkapı Sarayı) in Istanbul during the reign of Suleiman the Magnificent (circa 1530–1560).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
